@@ -1,2 +1,2 @@
 ### Description
- `This repo is for pure react project`
+ `This folder is for pure react project`
